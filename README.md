@@ -1,3 +1,3 @@
-## Ahojda!
-# Budu si to něco zkoušet
+# Ahojda!
+## Budu si to něco zkoušet
 Tak mě prosím berte s rezervou. 😊
